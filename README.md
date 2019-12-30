@@ -1,2 +1,2 @@
 # mercado-pago
-Consultar la API de Mercado Pago
+Scripts para consultar la API de Mercado Pago y utilizarla la información en Google Spreadsheets
